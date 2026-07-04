@@ -2,7 +2,7 @@
 
 A personal collection of [Claude skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills) —
 reusable instruction sets that teach Claude a repeatable workflow. These are generalized
-versions of skills I built for my own daily use in wealth management operations and
+versions of skills I built for my own daily use and
 personal life, rewritten for anyone to use. No personal or proprietary data is included.
 
 ## The skills
